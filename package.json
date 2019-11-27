@@ -1,0 +1,22 @@
+{
+  "name": "cod-network-api-node",
+  "version": "1.0.0",
+  "description": "An NPM package for accessing the Call of Duty Network API through Node.JS.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CallOfDutyNetwork/cod-network-api-node.git"
+  },
+  "author": "Call of Duty Network",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CallOfDutyNetwork/cod-network-api-node/issues"
+  },
+  "homepage": "https://github.com/CallOfDutyNetwork/cod-network-api-node#readme",
+  "dependencies": {
+    "request": "^2.88.0"
+  }
+}
