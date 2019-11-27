@@ -1,6 +1,6 @@
 {
   "name": "@callofdutynetwork/node-api",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "An NPM package for accessing the Call of Duty Network API through Node.JS.",
   "main": "index.js",
   "scripts": {
